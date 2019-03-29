@@ -1,0 +1,7 @@
+h1, h2, h3, strong{
+    color: green; /*j'ai décidé que le vert c'est plus joli */
+}
+
+p, title, aside, li, strong, blockquote {
+    font-family: "Arial Black", Arial, Verdana, sans-serif; /*plus une jolie police de caractère, car on est pas des bêtes*/
+}
